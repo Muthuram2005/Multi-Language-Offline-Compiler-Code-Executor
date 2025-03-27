@@ -22,10 +22,12 @@ Before installing, ensure you have the following components installed on your sy
 Installation Guide
 Step 1: Install Dependencies
 Run the following command to install the required Python packages:
+
      pip install ttkbootstrap pyperclip
 
 Step 2: Run the Application
 Execute the following command in your terminal or command prompt:
+   
      python app.py
 
 How to Use
